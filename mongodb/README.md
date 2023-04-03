@@ -1,1 +1,1 @@
-# docker-compose for MongoDb & Mongo Express
+# docker-compose for MongoDB & Mongo Express
